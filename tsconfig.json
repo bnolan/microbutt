@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "lib": ["es2017", "dom"],
+    "jsx": "React",
+    "jsxFactory": "h",
+    "target": "es5",
+    "typeRoots": [
+      "./node_modules/*"
+    ],
+    "types": [
+    ]
+  }
+}
+
